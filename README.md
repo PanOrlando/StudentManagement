@@ -33,3 +33,6 @@
 ## 4.系统处理流程
 
 ![系统处理流程](https://github.com/Soarkey/StudentManagement/blob/master/系统处理流程.jpg)
+
+
+<img width="881" height="716" alt="image" src="https://github.com/user-attachments/assets/d1d8d21a-10a7-4ad9-a4e3-cd91b0704d26" />
